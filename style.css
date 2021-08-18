@@ -6,3 +6,15 @@
     border: none;
     border-radius: 8px;
 }
+.topmargin{
+    margin-top: 80px;
+}
+.organge-text{
+    color: orange;
+}
+.buynprice{
+    padding: 20px;
+}
+.card-text{
+    text-align: center;
+}
