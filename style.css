@@ -1,3 +1,6 @@
+.topmargin{
+    margin-top: 80px;
+}
 .buy-now-button{
     background-color: black;
     color: white;
@@ -6,11 +9,17 @@
     border: none;
     border-radius: 8px;
 }
-.topmargin{
-    margin-top: 80px;
+.bgimage{
+    background-image: url(images/bg-1.png);
+    height: 560px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .organge-text{
     color: orange;
+}
+.pakage-name{
+    padding: 25px 2px;
 }
 .buynprice{
     padding: 20px;
@@ -34,10 +43,13 @@
 .background-white img{
     background-color: white;
     border: none;
+    border-radius: 10px 0px;
     box-shadow: 2px 2px 10px 2px lightblue;
     padding: 40px 30px;
 }
 .two-images{
     padding: 20px;
 }
-
+footer{
+    margin-top: 250px;
+}
